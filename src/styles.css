@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+[class~="dragging"] {
+  border-color: red;
+  box-shadow: none;
+  width: 40px;
+}
